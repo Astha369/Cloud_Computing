@@ -1,3 +1,5 @@
+//Azure
+
 Types of cloud:
 
 Public cloud: In a public cloud, the cloud infrastructure is owned by a cloud provider and is accessible to the public over the internet. The cloud provider hosts the cloud infrastructure, and end users can access it remotely without the need to buy and set up a working environment (such as buying hardware and software). Public cloud resources are shared among different end users. Public cloud users are typically charged for the duration for which these services are used. However, public cloud charge models vary across providers. The security and terms of use are defined by the provider, and hence, end users must work within the constraints of the provider when using its services.
